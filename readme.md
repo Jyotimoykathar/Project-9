@@ -25,8 +25,8 @@ This is the 9th Project-challenge among the 15 Ineuron-projects built with Seman
 
 ### Links
 
-- Code File URL: [github.com](https://github.com/Jyotimoykathar/Project-02)
-- Live Site URL: [netlify.app](https://project-02-restaurant.netlify.app/)
+- Code File URL: [github.com](https://github.com/Jyotimoykathar/Project-9)
+- Live Site URL: [netlify.app](https://project-9-developer-landing.netlify.app/)
 
 ## My process
 
